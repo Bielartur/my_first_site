@@ -1,2 +1,4 @@
-# my_first_site
+# My Site
 Django Personal Blog
+
+Successfully installed
